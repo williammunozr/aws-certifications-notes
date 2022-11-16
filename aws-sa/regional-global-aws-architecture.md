@@ -21,4 +21,26 @@
     - Application Load Balancer (ALB).
     - API Gateway.
     - Act as entry point.
+- Compute Tier
+    - EC2.
+    - Lambdas.
+    - Containers (Like ECS).
+- Storage Tier
+    - EBS, EFS, S3.
+    - S3 is used by CloudFront as origin.
+- Caching Tier
+    - Elastic Cache.
+    - DynamoDB Accelerator (DAX) when using DynamoDB.
+    - Reads to database can be decrease.
+    - Apps will instead consult the cache first, and only the data that isn't present in the cache will be consulted from the DB, and the content in the cache will be apdated.
+    - Cache is in-memory.
+- DB Tier
+    - RDS.
+    - DynamoDB.
+    - Redshift.
+- App Services
+    - Kinesis.
+    - Step Functions.
+    - SQS & SNS.
+    - Decouple components using queues.
     
