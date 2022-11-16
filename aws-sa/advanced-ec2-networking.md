@@ -8,3 +8,6 @@
 
 - `Primary ENI` - EC2 Instances have a primary `ENI` created with the instance which `cannot be removed`.
 - `Secondary ENI` - Additional `ENIs` can be added in and removed from other subnets (multi homed) but NOT in other AZs.
+- Multi-ENI offers multiple security zones or traffic types.
+- SGs attached to ENIs offer different protection rules.
+- Each ENI can also be protected by a NACL around its subnet.
