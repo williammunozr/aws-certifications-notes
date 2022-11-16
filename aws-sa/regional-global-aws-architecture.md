@@ -16,3 +16,9 @@
 ## Regional AWS Architecture
 
 ![Regional & Global Infrastructure 2](https://github.com/williammunozr/aws-sa-pro/blob/master/07-ComputeScalingLoadBalancing/00_LearningAids/RegionalandGlobalInfrastructure2.png)
+
+- Web Tier
+    - Application Load Balancer (ALB).
+    - API Gateway.
+    - Act as entry point.
+    
