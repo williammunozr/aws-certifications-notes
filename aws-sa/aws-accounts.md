@@ -11,6 +11,10 @@
 - By default all access to an `AWS Account` & resources is denied except for the `Account Root User`.
 - External identities can be granted access.
 
+## Course AWS Accounts
+
+![Course AWS Accounts](https://github.com/williammunozr/aws-sa-associate-saac02/blob/master/02-Course-Accounts/01_CourseAWSAccounts/AWSAccountStructure.png)
+
 ## Resources
 
 - [AWS Accounts - AWS SA Associate](https://learn.cantrill.io/courses/1820301/lectures/41301458)
