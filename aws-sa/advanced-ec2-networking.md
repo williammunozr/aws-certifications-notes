@@ -11,3 +11,9 @@
 - Multi-ENI offers multiple security zones or traffic types.
 - SGs attached to ENIs offer different protection rules.
 - Each ENI can also be protected by a NACL around its subnet.
+
+- Management or isolated networks.
+- Software Licensing (MAC).
+- Security or Network Appliances.
+- Multi-homed instances with workloads/roles on specific subnets.
+- Low budget & simple High-availability solutions.
