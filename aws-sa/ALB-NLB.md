@@ -26,8 +26,6 @@
 
 ![ALB - Rules](https://github.com/williammunozr/aws-sa-pro/blob/master/07-ComputeScalingLoadBalancing/00_LearningAids/ALBArchitecture2.png)
 
-![ALB - Rules 2](../images/ALBRules.png)
-
 ## References
 
 - [Application and Network Load Balancer](https://learn.cantrill.io/courses/895720/lectures/23012749)
