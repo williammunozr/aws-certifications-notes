@@ -13,4 +13,6 @@
 
 ## Resources
 
-- [ELB Architecture](https://learn.cantrill.io/courses/895720/lectures/22009428)
+- [ELB Architecture - Part 1](https://learn.cantrill.io/courses/895720/lectures/22009428)
+- [ELB Architecture - Part 2](https://learn.cantrill.io/courses/895720/lectures/22009458)
+
