@@ -26,6 +26,18 @@
 
 ![ALB - Rules](https://github.com/williammunozr/aws-sa-pro/blob/master/07-ComputeScalingLoadBalancing/00_LearningAids/ALBArchitecture2.png)
 
+## Network Load Balancer (NLB)
+
+- `Layer 4 Load Balancer` ... TCP, TLS, UDP, TCP_UDP.
+- `No visibility` or `understanding` of HTTP or HTTPS.
+- `No headers`, `no cookies`, `no session stickiness`.
+- Really Really Really Fast (`millions of Requests Per Second`, 25% of `ALB Latency`).
+- ... SMTP, SSH, Game Servers, Financial Apps (not HTTP/S)
+- Health checks `JUST` check ICMP / TCP Handshake .. `Not app aware`.
+- NLB's can have `static IP's` - useful for whitelisting.
+- `Forward TCP` to instances ... `unbroken encryption`.
+- Used with private link to provide services to other VPCs.
+
 ## References
 
 - [Application and Network Load Balancer](https://learn.cantrill.io/courses/895720/lectures/23012749)
