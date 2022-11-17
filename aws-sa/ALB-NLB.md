@@ -38,6 +38,15 @@
 - `Forward TCP` to instances ... `unbroken encryption`.
 - Used with private link to provide services to other VPCs.
 
+## ALB vs NLB
+
+- Unbroken encryption ... NLB.
+- Static IP for whitelisting ... NLB.
+- The fastest performance ... NLB (millions Requests Per Second).
+- Protocols not HTTP or HTTPS ... NLB.
+- Privatelink ... NLB.
+- Otherwise ... ALB.
+
 ## References
 
 - [Application and Network Load Balancer](https://learn.cantrill.io/courses/895720/lectures/23012749)
