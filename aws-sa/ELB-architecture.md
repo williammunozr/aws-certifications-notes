@@ -16,7 +16,7 @@
 - Nodes (in one subnet per AZ) can scale.
 - `Internet-facing` means nodes have `public IPV4 IPs`.
 - `Internal` is `private only IPs`.
-- EC2 `doesn't need to public` to work with a LB.
+- EC2 `doesn't need to be public` to work with a LB.
 - `Listerner` Configuration controls `WHAT` the LB does.
 - `8+` Fee IPs per subnet, and `/27` subnet to allow scaling.
 
