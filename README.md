@@ -12,3 +12,4 @@
 - [ELB Evolution](aws-sa/ELB-evolution.md)
 - [ALB and NLB](aws-sa/ALB-NLB.md)
 - [Session Stickiness](aws-sa/session-stickiness.md)
+- [Auto Scaling Groups](aws-sa/autoscaling-groups.md)
