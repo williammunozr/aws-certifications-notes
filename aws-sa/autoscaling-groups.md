@@ -53,6 +53,19 @@
 
 ![ASG Lifecycle Hooks](https://github.com/williammunozr/aws-sa-pro/blob/master/07-ComputeScalingLoadBalancing/00_LearningAids/ASGArchitecture3.png)
 
+## ASG Scaling Policies
+
+- ASGs don't NEED scaling policies - they can have one.
+- `Manual` - `Min`, `Max` & `Desired` - Testing & Urgent.
+- `Simple` Scaling.
+- `Step` Scaling.
+- `Target` Tracking.
+- Scaling Based on `SQS - ApproximateNumberOfMessagesVisible`.
+
+## ASG Simple Scaling
+
+![ASG Simple Scaling](../images/ASG-Simple-Scaling.png)
+
 ## References
 
 - [Auto Scaling Groups](https://learn.cantrill.io/courses/895720/lectures/23012761)
