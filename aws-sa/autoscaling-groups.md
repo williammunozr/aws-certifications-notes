@@ -8,6 +8,40 @@
 
 ![Auto Scaling Groups 1](https://github.com/williammunozr/aws-sa-pro/blob/master/07-ComputeScalingLoadBalancing/00_LearningAids/ASGArchitecture1.png)
 
+## Scaling Policies
+
+- `Manual` Scaling - Manually adjust the desired capacity.
+- `Scheduled` Scaling - Time based adjustment - e.g. Sales.
+- `Dynamic` Scaling.
+    - `Simple` - CPU above 50% + 1, CPU Below 50 - 1.
+    - `Stepped` Scaling - Bigger +/- based on difference.
+    - `Target Tracking` - Desired Aggregate CPU = 40% ..ASG handle it.
+- `Cooldown Periods` ...
+
+## ASG + Load Balancers
+
+![ASG + Load Balancers](https://github.com/williammunozr/aws-sa-pro/blob/master/07-ComputeScalingLoadBalancing/00_LearningAids/ASGArchitecture2.png)
+
+## Scaling Processes
+
+- `Launch` and `Terminate` - SUSPEND and RESUME.
+- `AddToLoadBalancer` - add to LB on Launch.
+- `AlarmNotification` - accept notification from CW.
+- `AZRebalance` - Balances instances evenly across all of the AZs.
+- `HealthCheck` - Instance health checks on/off.
+- `ReplaceUnhealthy` - Terminate unhealthy and replace.
+- `ScheduledActions` - Scheduled on/off.
+- `Standby` - Use this for instances `InService` vs `Standby`.
+
+## Final Points
+
+- Autoscaling Groups are free.
+- Only the resources created are billed...
+- Use cool downs to avoid rapid scaling.
+- Think about `more`, `smaller` instances - `granularity`.
+- Use with ALB's for elasticity - `abstraction`.
+- ASG defines `WHEN` and `WHERE`, LT defines `WHAT`.
+
 ## References
 
 - [Auto Scaling Groups](https://learn.cantrill.io/courses/895720/lectures/23012761)
