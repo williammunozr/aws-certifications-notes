@@ -44,6 +44,13 @@
 
 ## ASG Lifecycle Hooks
 
+- `Custom Actions` on instances during `ASG actions`.
+- .. `Instance Launch` or `Instance terminate` transitions.
+- Instances are paused within the flow .. they wait.
+- .. until a timeout (then either `CONTINUE` or `ABANDON`).
+- .. or you resume the ASG process `CompleteLifecycleAction`.
+- EventBridge or SNS Notifications.
+
 ![ASG Lifecycle Hooks](https://github.com/williammunozr/aws-sa-pro/blob/master/07-ComputeScalingLoadBalancing/00_LearningAids/ASGArchitecture3.png)
 
 ## References
