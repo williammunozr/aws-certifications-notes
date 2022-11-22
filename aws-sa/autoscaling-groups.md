@@ -2,7 +2,7 @@
 
 - Automatic Scaling and Self-Healing for EC2.
 - Uses Launch Templates or Configurations.
-- Has a Minimum, Desired and Maximum Size (e.g 1:2:4).
+- Has a `Minimum`, `Desired` and `Maximum` Size (e.g 1:2:4).
 - Keep running instances at the `Desired Capacity` by `provisioning` or `terminating` instances.
 - `Scaling Policies` automate based on metrics.
 
