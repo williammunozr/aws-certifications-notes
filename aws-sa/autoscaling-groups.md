@@ -42,6 +42,10 @@
 - Use with ALB's for elasticity - `abstraction`.
 - ASG defines `WHEN` and `WHERE`, LT defines `WHAT`.
 
+## ASG Lifecycle Hooks
+
+![ASG Lifecycle Hooks](https://github.com/williammunozr/aws-sa-pro/blob/master/07-ComputeScalingLoadBalancing/00_LearningAids/ASGArchitecture3.png)
+
 ## References
 
 - [Auto Scaling Groups](https://learn.cantrill.io/courses/895720/lectures/23012761)
