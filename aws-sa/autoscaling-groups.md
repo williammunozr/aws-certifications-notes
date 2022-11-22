@@ -66,6 +66,10 @@
 
 ![ASG Simple Scaling](../images/ASG-Simple-Scaling.png)
 
+## ASG Step Scaling
+
+![ASG Step Scaling](../images/ASG-Step-Scaling.png)
+
 ## References
 
 - [Auto Scaling Groups](https://learn.cantrill.io/courses/895720/lectures/23012761)
