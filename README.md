@@ -13,3 +13,4 @@
 - [ALB and NLB](aws-sa/ALB-NLB.md)
 - [Session Stickiness](aws-sa/session-stickiness.md)
 - [Auto Scaling Groups](aws-sa/autoscaling-groups.md)
+- [Connection Draining & Deregistration Delay](aws-sa/connection_draining_deregistration_delay.md)
