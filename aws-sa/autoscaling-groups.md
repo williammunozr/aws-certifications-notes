@@ -70,6 +70,16 @@
 
 ![ASG Step Scaling](../images/ASG-Step-Scaling.png)
 
+## ASG Health Checks
+
+- EC2 (Default), ELB (Can be enabled) & Custom.
+- EC2 - Stopping, Stopped, Terminated, Shutting Down or Impaired (not 2/2 status) = UNHEALTHY.
+- ELB - HEALTHY = Running & Passing ELB Health Check.
+- ... can be more application aware (Layer 7).
+- Custom - Instances marked healthy & unhealthy by an external system.
+- Health check grace period (Default 300s) - Delay before starting checks.
+- ... allows system launch, bootstrapping and application start.
+
 ## References
 
 - [Auto Scaling Groups](https://learn.cantrill.io/courses/895720/lectures/23012761)
