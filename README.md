@@ -14,3 +14,7 @@
 - [Session Stickiness](aws-sa/session-stickiness.md)
 - [Auto Scaling Groups](aws-sa/autoscaling-groups.md)
 - [Connection Draining & Deregistration Delay](aws-sa/connection_draining_deregistration_delay.md)
+
+## re:Invents
+
+- [re:Invent 2022](reInvent/reInvent-2022.md)
