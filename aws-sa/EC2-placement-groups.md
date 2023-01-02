@@ -18,6 +18,13 @@
 
 ## Spread Placement Group
 
+- Provides infrastructure isolation
+- ...each `INSTANCE` runs from a different rack
+- Each rack has its own `network` and `power` resource
+- `7 Instances per AZ` (HARD LIMIT)
+- Not supported for Dedicated Instances or Hosts
+- `Use Case`: Small number of critical instances that need to be kept separated from each other
+
 ![Spread](https://github.com/williammunozr/aws-sa-associate-saac03/blob/main/1100-ADVANCED_EC2/00_LEARNINGAIDS/PlacementGroups-2.png)
 
 ## Partition Placement Group
