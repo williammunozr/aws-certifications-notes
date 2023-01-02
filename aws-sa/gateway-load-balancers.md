@@ -15,6 +15,10 @@
 
 ![How it works](https://github.com/williammunozr/aws-sa-associate-saac03/blob/main/1500-HA_and_SCALING/00_LEARNINGAIDS/GWLB-2.png)
 
+## GWLB Architecture
+
+![GWLB Architecture](https://github.com/williammunozr/aws-sa-associate-saac03/blob/main/1500-HA_and_SCALING/00_LEARNINGAIDS/GWLB-3.png)
+
 ## Resources
 
 - [Gateway Load Balancers](https://learn.cantrill.io/courses/895720/lectures/35110028)
