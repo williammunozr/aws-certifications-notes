@@ -2,7 +2,7 @@
 
 - `Cluster` - Pack instances close together
 - `Spread` - Keep instances separated
-- `Partition` - 
+- `Partition` - Multiple Availability Zones
 
 ## Cluster Placement Group
 
@@ -28,6 +28,13 @@
 ![Spread](https://github.com/williammunozr/aws-sa-associate-saac03/blob/main/1100-ADVANCED_EC2/00_LEARNINGAIDS/PlacementGroups-2.png)
 
 ## Partition Placement Group
+
+- `7 Partitions per AZ`
+- Instances can be placed in `a specific partition`
+- ...or auto placed
+- Great for topology aware applications
+- ...HDFS, HBase, and Cassandra
+- Contain the impact of failure to part of an application
 
 ![Partition](https://github.com/williammunozr/aws-sa-associate-saac03/blob/main/1100-ADVANCED_EC2/00_LEARNINGAIDS/PlacementGroups-3.png)
 
