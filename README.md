@@ -15,6 +15,7 @@
 - [Auto Scaling Groups](aws-sa/autoscaling-groups.md)
 - [Connection Draining & Deregistration Delay](aws-sa/connection_draining_deregistration_delay.md)
 - [EC2 Placement Groups](aws-sa/EC2-placement-groups.md)
+- [Gateway Load Balancers](aws-sa/gateway-load-balancers.md)
 
 ## re:Invents
 
