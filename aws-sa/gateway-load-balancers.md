@@ -6,4 +6,4 @@
 
 ## Resources
 
-- [GWLB](https://learn.cantrill.io/courses/895720/lectures/35110028)
+- [Gateway Load Balancers](https://learn.cantrill.io/courses/895720/lectures/35110028)
