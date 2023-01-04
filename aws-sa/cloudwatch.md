@@ -2,7 +2,7 @@
 
 ## CloudWatch - Architecture Concepts
 
-- `Ingestion`, `Storage` and `Management`of `Metrics`
+- `Ingestion`, `Storage` and `Management` of `Metrics`
 - `Public` Service - public space endpoints
 - .. `AWS Service Integration` - management plane
 - .. `Agent` integration .. e.g. EC2 - richer metrics
