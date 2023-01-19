@@ -86,3 +86,4 @@ Autoscaling policies are added to an Amazon EMR cluster which define how nodes s
 - [ETL on Amazon EMR Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/c86bd131-f6bf-4e8f-b798-58fd450d3c44/en-US)
 - [Amazon EMR - AWS EMR Tutorial - Full Course in 60 mins](https://www.youtube.com/watch?v=v9nk6mVxJDU)
 - [Amazon EMR on EKS](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
+- [Amazon EMR vs Google Dataproc: Which is Better in 2022](https://gcpfirebase.com/amazon-emr-vs-google-dataproc/)
