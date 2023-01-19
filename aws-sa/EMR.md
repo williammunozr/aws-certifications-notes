@@ -71,6 +71,16 @@ It is an abstraction of Map Reduce which integrates with the lower level Java AP
 
 Different storage types such as plain text, RCFile, HBase, ORC, and others.
 
+## Amazon EMR Autoscaling
+
+### What is Autoscaling?
+
+Autoscaling is a cloud computing feature that enables organizations to scale cloud services such as server capacities or virtual machines up or down automatically, based on defined situations such as traffic or utilization levels.
+
+### How does it work?
+
+Autoscaling policies are added to an Amazon EMR cluster which define how nodes should be added or removed. There are options in terms of available RAM, disc, app running, apps pending, etc.
+
 ## Resources
 
 - [ETL on Amazon EMR Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/c86bd131-f6bf-4e8f-b798-58fd450d3c44/en-US)
