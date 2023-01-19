@@ -17,6 +17,7 @@
 - [EC2 Placement Groups](aws-sa/EC2-placement-groups.md)
 - [Gateway Load Balancers](aws-sa/gateway-load-balancers.md)
 - [CloudWatch](aws-sa/cloudwatch.md)
+- [Amazon EMR](aws-sa/EMR.md)
 
 ## re:Invents
 
