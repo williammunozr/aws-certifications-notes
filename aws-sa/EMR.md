@@ -57,6 +57,20 @@ Hive provides the necessary SQL abstraction to integrate SQL-like queries (HiveQ
 
 Different storage types such as plain text, RCFile, HBase, ORC, and others.
 
+## PIG
+
+### What is PIG?
+
+Apache PIG is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs. The salient property of PIG programs is that their structure is amenable to substantial parallelization, which in turns enables them to handle very large data sets.
+
+### How Does It Work?
+
+It is an abstraction of Map Reduce which integrates with the lower level Java API which means parallel processing is easily achieved.
+
+### Storage
+
+Different storage types such as plain text, RCFile, HBase, ORC, and others.
+
 ## Resources
 
 - [ETL on Amazon EMR Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/c86bd131-f6bf-4e8f-b798-58fd450d3c44/en-US)
