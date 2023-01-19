@@ -10,20 +10,52 @@ Managed cluster platform that simplifies running big data frameworks.
 
 ### Data Processing Frameworks
 
-- Engine used to process and analyze data
-- Different frameworks are available for different kinds of processing needs
-- The main processing frameworks available for Amazon EMR are Hadoop MapReduce and Spark
+- Engine used to process and analyze data.
+- Different frameworks are available for different kinds of processing needs,
+- The main processing frameworks available for Amazon EMR are Hadoop MapReduce and Spark.
 
 ### Cluster Resource Management
 
-- The resource management layer is responsible for managing cluster resources and scheduling the jobs for processing data
-- By default, Amazon EMR uses YARN (Yet Another Resource Negotiator)
+- The resource management layer is responsible for managing cluster resources and scheduling the jobs for processing data.
+- By default, Amazon EMR uses YARN (Yet Another Resource Negotiator).
 
 ### Storage
 
-- Hadoop Distributed File System (HDFS) is a distributed, scalable file system for Hadoop
-- Using the EMR File System (EMRFS), Amazon EMR extends Hadoop to add the ability to directly access data stored in Amazon S3 as if it were a file system like HDFS
-- The local file system refers to a locally connected disk
+- Hadoop Distributed File System (HDFS) is a distributed, scalable file system for Hadoop.
+- Using the EMR File System (EMRFS), Amazon EMR extends Hadoop to add the ability to directly access data stored in Amazon S3 as if it were a file system like HDFS.
+- The local file system refers to a locally connected disk.
+
+## Spark ETL
+
+### What is Spark?
+
+Apache Spark™ is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
+
+### In Memory Computing
+
+Spark stores the data in the RAM of servers which allow quick access and in turn accelerates the speed of analytics.
+
+### Faster Processing
+
+Spark contains Resilient Distributed Dataset (RDD) which saves time in reading and writing operations, allowing it to run almost ten to one hundred times faster than Hadoop.
+
+### Flexibility
+
+Apache Spark supports multiple languages and allows the developers to write applications in Java, Scala, R, or Python.
+
+## Hive
+
+### What is Hive?
+
+The Apache Hive™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive.
+
+### SQL Like Interface
+
+Hive provides the necessary SQL abstraction to integrate SQL-like queries (HiveQL) into the underlying Java without the need to implement queries in the low-level Java API.
+
+### Storage
+
+Different storage types such as plain text, RCFile, HBase, ORC, and others.
 
 ## Resources
 
