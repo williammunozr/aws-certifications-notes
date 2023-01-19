@@ -11,3 +11,4 @@ Managed cluster platform that simplifies running big data frameworks.
 ## Resources
 
 - [Amazon EMR - AWS EMR Tutorial - Full Course in 60 mins](https://www.youtube.com/watch?v=v9nk6mVxJDU)
+- [Amazon EMR on EKS](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
