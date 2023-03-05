@@ -18,6 +18,7 @@
 - [Gateway Load Balancers](aws-sa/gateway-load-balancers.md)
 - [CloudWatch](aws-sa/cloudwatch.md)
 - [Amazon EMR](aws-sa/EMR.md)
+- [CloudTrail](aws-sa/cloud_trail.md)
 
 ## re:Invents
 
