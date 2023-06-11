@@ -19,7 +19,7 @@
 - [CloudWatch](aws-sa/cloudwatch.md)
 - [Amazon EMR](aws-sa/EMR.md)
 - [CloudTrail](aws-sa/cloud_trail.md)
-- [S3 Object Encryption CSE/SSE](aws-sa/session-stickiness.md)
+- [S3 Object Encryption CSE/SSE](aws-sa/s3-object-encryption.md)
 
 ## re:Invents
 
