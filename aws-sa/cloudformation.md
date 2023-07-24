@@ -52,3 +52,11 @@
 ### Fn::Join and Fn::Split
 
 ![Fn Join and Fn Split](../images/fn-join-and-fn-split.png)
+
+### Fn::Base64 and Fn:Sub
+
+![Fn Base64 and Fn Sub](../images/fn-base64-and-fn-sub.png)
+
+### Fn::Cidr
+
+![Fn Cidr](../images/fn-cidr.png)
