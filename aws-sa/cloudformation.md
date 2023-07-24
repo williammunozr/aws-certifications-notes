@@ -15,3 +15,19 @@
 ![Physical and Logical Resources](../images/cf-physical-and-logical-resources.png)
 
 ![Physical and Logical Resources Lifecycle](../images/cf-physical-and-logical-resources-lifecycle.png)
+
+## Template and Pseudo Parameters
+
+- `Template Parameters` accept input - console/CLI/API
+- .. when a stack is `created` or `updated`
+- Can be referenced from within `Logical Resources`
+- .. influence `physical resources` and/or configuration
+- Can be configured with `Defaults`, `AllowedValues`, `Min` and `Max` length & `AllowedPatterns`, `NoEcho` & `Type`
+
+## Template Parameters
+
+![CF Template Parameters](../images/cf-template-parameters.png)
+
+## Pseudo Parameters
+
+![CF Pseudo Parameters](../images/cf-pseudo-parameters.png)
