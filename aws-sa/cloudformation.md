@@ -66,3 +66,7 @@
 ![CloudFormation Mappings](../images/cf-mappings.png)
 
 ![CloudFormation Mappings Example](../images/cf-mappings-example.png)
+
+## CloudFormation Outputs
+
+![CloudFormation Outputs](../images/cf-outputs.png)
