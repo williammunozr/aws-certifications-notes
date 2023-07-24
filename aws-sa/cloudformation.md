@@ -31,3 +31,12 @@
 ## Pseudo Parameters
 
 ![CF Pseudo Parameters](../images/cf-pseudo-parameters.png)
+
+## CloudFormation Intrinsic Functions
+
+- Ref & Fn::GetAtt
+- Fn::Join & Fn::Split
+- Fn::GetAZs & Fn::Select
+- Conditions (Fn:: IF, And, Equals, Not or Or)
+- Fn::Base64 & Fn::Sub
+- Fn::Cidr
