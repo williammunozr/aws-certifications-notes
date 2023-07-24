@@ -22,6 +22,7 @@
 - [S3 Object Encryption CSE/SSE](aws-sa/s3-object-encryption.md)
 - [Storage Gateway](aws-sa/storage-gateway.md)
 - [AWS DataSync](aws-sa/aws-datasync.md)
+- [AWS CloudFormation](aws-sa/cloudformation.md)
 
 ## re:Invents
 
