@@ -70,3 +70,5 @@
 ## CloudFormation Outputs
 
 ![CloudFormation Outputs](../images/cf-outputs.png)
+
+![CloudFormation Outputs](../images/cf-outputs-example.png)
