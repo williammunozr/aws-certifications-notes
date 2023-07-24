@@ -40,3 +40,7 @@
 - Conditions (Fn:: IF, And, Equals, Not or Or)
 - Fn::Base64 & Fn::Sub
 - Fn::Cidr
+
+### Ref and Fn::GetAtt
+
+![Ref and Fn::GetAtt](../images/ref-and-fn-getatt.png)
