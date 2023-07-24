@@ -60,3 +60,9 @@
 ### Fn::Cidr
 
 ![Fn Cidr](../images/fn-cidr.png)
+
+## CloudFormation Mappings
+
+![CloudFormation Mappings](../images/cf-mappings.png)
+
+![CloudFormation Mappings Example](../images/cf-mappings-example.png)
