@@ -6,7 +6,7 @@
 
 ## Storage Gateway - Volume Cached
 
-![Storage Gateway Volume Cached](../images/storage-gateway-volume-chaced.png)
+![Storage Gateway Volume Cached](../images/storage-gateway-volume-cached.png)
 
 ## Storage Gateway - Tape
 
