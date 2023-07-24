@@ -20,6 +20,7 @@
 - [Amazon EMR](aws-sa/EMR.md)
 - [CloudTrail](aws-sa/cloud_trail.md)
 - [S3 Object Encryption CSE/SSE](aws-sa/s3-object-encryption.md)
+- [Storage Gateway](aws-sa/storage-gateway.md)
 
 ## re:Invents
 
