@@ -13,6 +13,8 @@
 - AWS Service integration - S3, EFS, FSx.
 - Pay as you use ... per GB cost for data moved.
 
+## AWS DataSync Architecture
+
 ![AWS DataSync](../images/aws-datasync-arch.png)
 
 ## DataSync Components
