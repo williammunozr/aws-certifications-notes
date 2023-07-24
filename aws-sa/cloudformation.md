@@ -44,3 +44,7 @@
 ### Ref and Fn::GetAtt
 
 ![Ref and Fn::GetAtt](../images/ref-and-fn-getatt.png)
+
+### Fn::GetAZs and Fn::Select
+
+![Fn GetAZs and Fn Select](../images/fn-getazs-and-fn-select.png)
