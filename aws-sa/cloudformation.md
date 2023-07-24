@@ -48,3 +48,7 @@
 ### Fn::GetAZs and Fn::Select
 
 ![Fn GetAZs and Fn Select](../images/fn-getazs-and-fn-select.png)
+
+### Fn::Join and Fn::Split
+
+![Fn Join and Fn Split](../images/fn-join-and-fn-split.png)
