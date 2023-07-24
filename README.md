@@ -23,6 +23,7 @@
 - [Storage Gateway](aws-sa/storage-gateway.md)
 - [AWS DataSync](aws-sa/aws-datasync.md)
 - [AWS CloudFormation](aws-sa/cloudformation.md)
+- [AWS Migration Tools](aws-sa/the-6rs-of-cloud-migration.md)
 
 ## re:Invents
 
