@@ -24,6 +24,9 @@
 - [AWS DataSync](aws-sa/aws-datasync.md)
 - [AWS CloudFormation](aws-sa/cloudformation.md)
 - [AWS Migration Tools](aws-sa/the-6rs-of-cloud-migration.md)
+- [AWS Route 53](aws-sa/amazon-route-53.md)
+- [AWS Transit Gateway](aws-sa/aws-transit-gateway.md)
+- [AWS PrivateLink](aws-sa/aws-priviatelink.md)
 
 ## re:Invents
 
