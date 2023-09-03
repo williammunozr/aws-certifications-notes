@@ -27,6 +27,7 @@
 - [AWS Route 53](aws-sa/amazon-route-53.md)
 - [AWS Transit Gateway](aws-sa/aws-transit-gateway.md)
 - [AWS PrivateLink](aws-sa/aws-priviatelink.md)
+- [Amazon DynamoDB](aws-sa/amazon-dynamodb.md)
 
 ## re:Invents
 
