@@ -28,6 +28,7 @@
 - [AWS Transit Gateway](aws-sa/aws-transit-gateway.md)
 - [AWS PrivateLink](aws-sa/aws-priviatelink.md)
 - [Amazon DynamoDB](aws-sa/amazon-dynamodb.md)
+- [Amazon Rekognition](aws-sa/amazon-rekognition.md)
 
 ## re:Invents
 
